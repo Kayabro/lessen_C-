@@ -1,0 +1,15 @@
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\bin\Debug\net6.0\Ex_002_hello_youser.exe
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\bin\Debug\net6.0\Ex_002_hello_youser.deps.json
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\bin\Debug\net6.0\Ex_002_hello_youser.runtimeconfig.json
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\bin\Debug\net6.0\Ex_002_hello_youser.dll
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\bin\Debug\net6.0\Ex_002_hello_youser.pdb
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.csproj.AssemblyReference.cache
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.AssemblyInfoInputs.cache
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.AssemblyInfo.cs
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.csproj.CoreCompileInputs.cache
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.dll
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\refint\Ex_002_hello_youser.dll
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.pdb
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\Ex_002_hello_youser.genruntimeconfig.cache
+D:\GB\C# Лекция\Ex_hello_console\Ex_002_hello_youser\obj\Debug\net6.0\ref\Ex_002_hello_youser.dll
